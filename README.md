@@ -9,7 +9,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 
 <br/>  
 
-## 2022/07/05
+## 2022/07/10
 
 | 구분 | 난이도 | 번호 | 문제 이름 | 분류 | 진행 상태 | 참고 |
 |:------:|:------:|:----:|:---------:|:---------:|:---------:|:---------:|
@@ -18,5 +18,5 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 
 | 구분 | 난이도 | 번호 | 문제 이름 | 분류 | 진행 상태 | 참고 |
 |:------:|:------:|:----:|:---------:|:---------:|:---------:|:---------:|
-| [백준](BAEKJOON) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [19637](https://www.acmicpc.net/problem/19637) | [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) | `이분탐색` | :white_check_mark:[code](BAEKJOON/BOJ_G4_2234_성곽.java) |
+| [백준](BAEKJOON) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [19637](https://www.acmicpc.net/problem/19637) | [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) | `이분탐색` | :white_check_mark:[code](백준/Silver/19637. IF문 좀 대신 써줘/IF문 좀 대신 써줘.java) |
 
